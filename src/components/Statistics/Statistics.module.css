@@ -1,0 +1,11 @@
+.list{
+    margin: 25px;
+}
+
+.item{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+    font-size: 24px;
+    padding: 8px;
+    font-weight: 500;
+}
